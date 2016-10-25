@@ -1,0 +1,1 @@
+const MovieCategories = require("./movie-categories.json");
