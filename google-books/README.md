@@ -41,7 +41,7 @@ Log to terminal an array of the top 5 cheapest books, based on cost per page in 
 ]
 ```
 
-Note: You will need to calculate cost per page using `saleInfo.listPrice.amount` and `item.volumeInfo.pageCount`.
+Note: You will need to calculate cost per page using `item.saleInfo.listPrice.amount` and `item.volumeInfo.pageCount`.
 
 **Books by Publisher**
 
